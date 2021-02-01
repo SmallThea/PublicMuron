@@ -1,0 +1,1086 @@
+{
+    "currency": "pièces d'or",
+    "gem": "gemme",
+    "foods": "🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🍍🥭🥥🥝🍅🍆🥑🥦🥒🥬🌽🥕🥔🍠🥐🍞🥖🥨🥯🧀🥚🍳🥞🥓🥩🍗🍖🌭🍔🍟🍕🥪🥙🌮🌯🥗🥘🥫🍝🍜🍲🍛🍣🍱🥟🍤🍙🍚🍘🍥🥮🥠🍢🍡🍧🍨🍦🥧🍰🎂🍮🍭🍬🍫🍿🧂🍩🍪🌰🥜🍯🥛🍼☕️🍵🥤🍶🍺🍻🥂🍷🥃🍸🍹🍾🥣🥡",
+    "numbers": [
+        "0️⃣",
+        "1️⃣",
+        "2️⃣",
+        "3️⃣",
+        "4️⃣",
+        "5️⃣",
+        "6️⃣",
+        "7️⃣",
+        "8️⃣",
+        "9️⃣"
+    ],
+    "rules": {
+        "0": "Respecter les autres membres, évitez tout comportement qui peuvent être blessant envers les membres dont vous ne connaisez pas le tempérament",
+        "1": "Il est interdis de tenter d'obtenir ou de révéler des informations privés sur un membre sans son authorisiation",
+        "2": "Publier/partager du contenue sexuelle/choquant ou ne convenant pas a tout les âges est prohibé (channel memes inclus)",
+        "3": "Il est totalement interdis de tenir des propos haineux envers une quelconque communauté ou un groupe de personnne (racisme, homophobie, sexisme, etc)",
+        "4": "Il est interdis de flood ou de spam, un salon textuel comme vocal",
+        "5": "Il est interdis de faire de la publicité en utilisant le serveur comme intermédiaire (dm, channel écris et vocaux)",
+        "5bis":"Le roi aprécie le thé et la fréquentation d'intellects",
+        "6": "Faire perdre du temps a des staffs sans raison ou admetre qu'ils on tord sur des questions de modération et de gestion du serveur est interdis",
+        "7":"Si vous êtes un personne jugé dérangeant pour le serveur et/ou ses membres, des mesures seront prisent en votre encontre"
+    },
+    "durability": "Durabilité",
+    "price": "Prix",
+    "quantity": "Quantité",
+    "energy": "Energie",
+    "recap": "Récap",
+    "xp": "XP",
+    "cant":"Vous ne pouvez pas faire ca",
+    "can":"Fait avec succés",
+    "unknown_user":"Inconnue",
+    "in_dev":"En dévelopement",
+    "user_not_found":"Joueur introuvable",
+    "rule": {
+        "title": "Règles de Brumetière",
+        "desc": "Les règles sont les .. qui permettent ...\nTout non respect de ces règles apportera sanction que ca soit le cachot l'éxécution ou l'expultion définitive de la ville.",
+        "field_desc": "Liste des règles suprèmes"
+    },
+    "stats": {
+        "strength": "force",
+        "constitution": "constitution",
+        "dexterity": "déxtérité",
+        "intelligence": "intélligence",
+        "wisdom": "sagesse",
+        "charisma": "charisme",
+        "luck": "chance"
+    },
+    "success":{
+        "notification":"Vous avez accomplis le succés **{success_name}** et obtenue le badge {success_emoji}\n```{success_desc}```",
+        "list":{
+            "success_0":{
+                "name":"Hibou",
+                "desc":"Rester 24h d'affilé actif en vocal"
+            },
+            "success_1":{
+                "name":"Vague d'aventurier",
+                "desc":"Inviter 25 aventurier dans la cité Brumetière"
+            },
+            "success_2":{
+                "name":"Loins du prolétariat",
+                "desc":"Rassembler une somme de un millions d'or"
+            },
+            "success_3":{
+                "name":"Moule et perle",
+                "desc":"Drop une Perle de lait en péchant"
+            }
+        }
+    },
+    "item": {
+        "equipment_recipe": {
+            "name": "recette de {item_name}",
+            "desc": "Quand utilisé, se consomme avec les ingrédients pour donner {item_name} × {quantity}"
+        },
+        "fishing_0": {
+            "name": "algue",
+            "desc": "De l'algue, gluante et à l'odeur nauséabonde"
+        },
+        "fishing_1": {
+            "name": "poisson",
+            "desc": "Un poisson pétillant, glissant et tout à fait banal"
+        },
+        "fishing_2": {
+            "name": "coquillage",
+            "desc": "Un coquillage aux couleurs luisantes, introuvable sur les plages"
+        },
+        "fishing_3": {
+            "name": "queue de homard",
+            "desc": "Une queue sectionnée de homard, robuste et alléchante"
+        },
+        "fishing_4": {
+            "name": "tentacule",
+            "desc": "Tentacule orné de ventouse dont les amateurs offrent un bon prix"
+        },
+        "fishing_5": {
+            "name": "corail de sang",
+            "desc": "Une petite branche du légendaire corail de sang"
+        },
+        "fishing_6": {
+            "name": "perle de Lée",
+            "desc": "Une orbe couleur ivoire qui, selon la légende, renferme les pouvoirs de l'impératrice des mers"
+        },
+        "animal_hunting_0": {
+            "name": "peau",
+            "desc": "Une peau robuste acquise sur un animal, certainement utile en tannerie"
+        },
+        "animal_hunting_1": {
+            "name": "os solide",
+            "desc": "Des os imposants arrachés à des gros mammifères, aussi solides que la pierre"
+        },
+        "animal_hunting_2": {
+            "name": "croc gargantuesque",
+            "desc": "Un croc de saurien obtenu sans le consentement du monstre qui le possédait avant vous"
+        },
+        "animal_hunting_3": {
+            "name": "étoffe",
+            "desc": "On dirait une carte, mais non, c'est une ressource très utile dans l'industrie textile"
+        },
+        "animal_hunting_4": {
+            "name": "corne de Rokurk",
+            "desc": "Trophée grandiose prouvant votre capacité chasseresse remarquable, ou votre capacité à marchander..."
+        },
+        "animal_hunting_5": {
+            "name": "fourrure de cerf-volant",
+            "desc": "Poils plus doux que le ciel, encore tachés du sang de l'animal majestueux d'où ils proviennent"
+        },
+        "animal_hunting_6": {
+            "name": "plume de Glifronir",
+            "desc": "Plume du légendaire oiseau Glifronir, elle renferme le froid de l'hiver"
+        },
+        "digging_0": {
+            "name": "bâton",
+            "desc": "Simple bâton"
+        },
+        "digging_1": {
+            "name": "silex",
+            "desc": "Petite pierre noire, tranchante, anciennement utilisée pour la création d'outils rudimentaires"
+        },
+        "digging_2": {
+            "name": "craie blanche",
+            "desc": "Morceau de craie, souvent utilisé pour jouer des tours aux voisins"
+        },
+        "digging_3": {
+            "name": "excrément de fanfasme",
+            "desc": "Des restes de feuilles relachés sous terre après la digestion d'un fanfasme"
+        },
+        "digging_4": {
+            "name": "Carapace de Paléorim",
+            "desc": "Coquille fossilisée d'un antique être inconnu"
+        },
+        "digging_5": {
+            "name": "éclats de rêve",
+            "desc": "Une essence cristallisée des songes les plus purs"
+        },
+        "digging_6": {
+            "name": "emblème de Galaad",
+            "desc": "Croix sacrée de l'ordre perdu de Galaad, exhalte d'une lumière et d'une chaleur intense exposée au soleil"
+        },
+        "exploration_0": {
+            "name": "ressort",
+            "desc": "Étrange objet de fer qui semble avoir une utilité mécanique"
+        },
+        "exploration_1": {
+            "name": "rouage rouillé",
+            "desc": "Solide pièce de feraille semblant être produite en série selon un procédé inconnu"
+        },
+        "exploration_2": {
+            "name": "débris d'acier",
+            "desc": "Pièce d'alliage inconnu perforée en son centre, elle servait vraisemblablement à relier quelque chose"
+        },
+        "exploration_3": {
+            "name": "Lingot d'archimanol",
+            "desc": "Matériau précieux raffiné pour un usage forgeron. Semble venir des étoiles."
+        },
+        "exploration_4": {
+            "name": "Slime emprisonné",
+            "desc": "Un monstre piégé dans les âfres du temps. Renferme une malédiction puissante."
+        },
+        "exploration_5": {
+            "name": "Longue-vue de l'ordre de ",
+            "desc": "Un objet d'érain qui parait normal mais dévoile d'étranges symboles une fois porté à l'oeil"
+        },
+        "exploration_6": {
+            "name": "Montre oubliée",
+            "desc": "Artefact à la valeur toute particulière pour les peuples anciens, le temps semble perturbé à son contact"
+        },
+        "mining_0": {
+            "name": "minerai d'argent",
+            "desc": "Un minéral assez simple et assez connu, contrairement à la croyance, il ne compose pas la monnaie"
+        },
+        "mining_1": {
+            "name": "minerai d'or",
+            "desc": "De l'or brut, utilisé dans une majorité de composition d'alliage magique"
+        },
+        "mining_4": {
+            "name": "roche nitrique",
+            "desc": "De l'acide compacté dans une formation rocheuse, est, normalement, sans danger à manipuler"
+        },
+        "mining_2": {
+            "name": "émeraude brute",
+            "desc": "Émeraude sous sa forme la moins pure, remporte un grand succès chez les joaillier"
+        },
+        "mining_3": {
+            "name": "hécatolite",
+            "desc": "Pierre au propriété de légèreté encore inégalée, n'a aucun rapport avec la lune"
+        },
+        "mining_5": {
+            "name": "arcanite",
+            "desc": "Concentré d'énergie formé dans des profondeurs insondables, nécessite de nombreuses précautions d'emploi"
+        },
+        "mining_6": {
+            "name": "œil de Slipfronir",
+            "desc": "Gemme chaude du trésor personnel du dragon Slipfronir, la légende raconte qu'elle serait un de ses œufs à jamais infertile"
+        },
+        "picking_0": {
+            "name": "racines",
+            "desc": "Des racines d'une petite plante grignotées par des rongeurs"
+        },
+        "picking_1": {
+            "name": "Miel savoureux",
+            "desc": "Un rayon de miel, parfaitement sucré et onctueux"
+        },
+        "picking_2": {
+            "name": "Champignon suave",
+            "desc": "Un champignon tout à fait normal dont les spores ont de fabuleuses propriétés alchimiques"
+        },
+        "picking_3": {
+            "name": "Rose de l'aurore",
+            "desc": "Une fleur que l'on associe à l'amour, aussi douce que la rosée, aussi fragile que le cristal"
+        },
+        "picking_4": {
+            "name": "Feuille d'envol",
+            "desc": "Variété particulière de chanvre aux propriétés curatives et qui permettent la concoction de décoction volatile"
+        },
+        "picking_5": {
+            "name": "Quatre-feuilles d'espoir",
+            "desc": "Plante extrêment rare qui renferme un pouvoir sylvestre, les scientifiques démentent ses propriétés porte-bonheur"
+        },
+        "picking_6": {
+            "name": "Abondance d'Atlas",
+            "desc": "Épis légendaire qui pousserait sur le plus haut sommet des montagnes d'Atlas, reflète le pouvoir du soleil et de la terre"
+        },
+        "insect_hunting_0": {
+            "name": "Ver de terre",
+            "desc": "Étonnement, c'est une preuve de richesse, plus on en possède, plus on a de terre"
+        },
+        "insect_hunting_1": {
+            "name": "Papillon de lumière",
+            "desc": "Un papillon tout à fait classique qui tient son nom d'une star particulièrement éphémère"
+        },
+        "insect_hunting_2": {
+            "name": "Fourmi des sables",
+            "desc": "Fourmi ambrée assez difficile à attraper par sa tendance à s'enterrer dans le sable ou sous l'écorce de bois mort"
+        },
+        "insect_hunting_3": {
+            "name": "Coccinaile",
+            "desc": "Cocinnelle plutôt singulière qui communique par un ingénieux système de reflets de lumières sur ses ailes"
+        },
+        "insect_hunting_4": {
+            "name": "Scarabée saphir",
+            "desc": "Non,cet insecte n'est pas constitué de saphir. Autrefois chassé pour être utilisé comme bijou, on pensait l'espèce éteinte"
+        },
+        "insect_hunting_5": {
+            "name": "Fanfasme",
+            "desc": "Seule espèce du genre Fanfasmida, le fanfasme est dit tisseur du monde, ses ravisseuses altèrent en effet la courbe de l'espace"
+        },
+        "insect_hunting_6": {
+            "name": "Nectabeille",
+            "desc": "Une nectabeille est catalysatrice du Panacée, on pense qu'une nait à chaque éclipse"
+        },
+        "necromancy_0": {
+            "name": "Toile d'araignée",
+            "desc": "Gluante, dégoûtante mais heureusement vide"
+        },
+        "necromancy_1": {
+            "name": "Gelée de slime",
+            "desc": "Un peu flasque et au goût fade, on reconnaît bien là le slime"
+        },
+        "necromancy_2": {
+            "name": "Crâne humain parfait",
+            "desc": "Un crâne humain parfait sous toute proportion, sans la moindre trace de chair...Effrayant."
+        },
+        "necromancy_3": {
+            "name": "œil solitaire",
+            "desc": "L'œil d'une créature inconnue, une chose est certaine, il  vous suit du regard"
+        },
+        "necromancy_4": {
+            "name": "Demoniaile",
+            "desc": "L'aile d'un petit démon aux allures de chauves-souris, elle semble parcourue de spasme"
+        },
+        "necromancy_5": {
+            "name": "Idole mnémonique",
+            "desc": "Un artefact d'une noirceur absolu, il semble dévorer rêves, cauchemars et souvenirs et hèle bruyamment"
+        },
+        "necromancy_6": {
+            "name": "Cœur d'Ébènyl",
+            "desc": "Les plus sombres légendes parlent des cœurs dissimulés du roi des tréfonds qui pulsent encore dans sa non-vie"
+        },
+        "fishing_tool_0": {
+                "name": "Canne à pêche en bois",
+                "desc": "L'outil le plus rudimentaire qui soit, un bâton, du fil et un fil de fer en guise d'hameçon" 
+        },
+        "fishing_tool_1": {
+                "name": "Canne à pêche",
+                "desc": "Bien que renforcée par du fer, cette brindille est trop fragile pour la pêche au thon" 
+        },
+        "fishing_tool_2": {
+                "name": "Canne de corail",
+                "desc": "Aux couleurs de l'arc-en-ciel, cet objet est idéal pour la pêche aux tentacules en amoureux" 
+        },
+        "fishing_tool_3": {
+                "name": "Aiguillon des mers",
+                "desc": "L'appât mielleux est tant collant que la canne se passe d'un hameçon, à utiliser avec précaution"
+        },
+        "fishing_tool_4": {
+                "name": "L'hollandaise flottante",
+                "desc": "D'os humain, on raconte que sa recette à été inventé par un corsaire ayant survécu à un naufrage"
+        },
+        "fishing_tool_5": {
+                "name": "Njörd",
+                "desc": "Surnommée la belle mer, cette canne à pêche apporte une pêche riche, au prix de quelques gelures et brûlures"
+        },
+        "mining_tool_0": {
+                "name": "Pioche en bois",
+                "desc": "Robuste, cet outil tient plus du gourdin que de l'outil de précision"
+        },
+        "mining_tool_1": {
+                "name": "Pioche",
+                "desc": "Symbole de l'effort physique, elle demeure tout de même très pratique pour miner comme se défendre"
+        },
+        "mining_tool_2": {
+                "name": "Pioche accérée",
+                "desc": "Maniée précautioneusement, sa tête peut aisément fendre un rocher, ou un crâne, d'un coup bien placé."
+        },
+        "mining_tool_3": {
+                "name": "Pionyx",
+                "desc": "Formée de roche calcinée, cette pioche suit une structure précise s'articulant sur le travail du feu selon des techniques ancestrales"
+        },
+        "mining_tool_4": {
+                "name": "Piobsidienne",
+                "desc": "Les roches magmatiques qui composent cet objet sont tant ardentes qu'il suffit de l'approcher du petit bois pour l'enflammer."
+        },
+        "mining_tool_5": {
+                "name": "Piaubaine",
+                "desc": "La rencontre d'un peu de magie, d'un peu de fantaisie et d'un roi particulièrement avare a mené à la conception d'une pioche formée de joyaux magique creusant la roche à presque 1m/s"
+        },
+        "digging_tool_0": {
+                "name": "Pelle de fortune",
+                "desc": "Un objet aménagé afin de creuser la terre, il apparaît évident qu'il a subit des aménagements pour exercer cette fonction"
+        },
+        "digging_tool_1": {
+                "name": "Pelle",
+                "desc": "Tranchante et ressistante, elle a des usages multiples bien qu'il faille oublier celui gastronomique, quoiqu'en disent certains"
+        },
+        "digging_tool_2": {
+                "name": "Perllée",
+                "desc": "Moins fragile que sa cousine d'acier, il faut pourtant la protéger des crabes voraces qui raffolent des bivalves dont elle est faite"
+        },
+        "digging_tool_3": {
+                "name": "Effipelle",
+                "desc": "Les gobelins racontent que les dragons utilisaient ses objets comme des cure-dents, les humains disent que les géants en faisaient des flèches"
+        },
+        "digging_tool_4": {
+                "name": "Perçée émeraude",
+                "desc": "Une pelle très tranchante qui montre les tendances de la noblesse d'avoir leur environnement entier recouvert de joyaux"
+        },
+        "digging_tool_5": {
+                "name": "Chasse-neige",
+                "desc": "Plus résistante que n'importe quel matériel, la glace dont est fait cet objet apporte un certain confort pour creuser, notamment en été"
+        },
+        "animal_hunting_tool_0": {
+                "name": "Couteau de chasse",
+                "desc": "Une arme peu imposante qui est soumise à d'importante réglémentation, peu recommandée pour les jeunes enfants"
+        },
+        "animal_hunting_tool_1": {
+                "name": "Coutelos",
+                "desc": "Sordide, ce coutelas est un allié de choix dans les chasse en forêt, et pour avoir un peu de style"
+        },
+        "animal_hunting_tool_2": {
+                "name": "Surose",
+                "desc": "Fort jolie, cette arme épineuse reste un redoutable danger, surtout pour les novices qui ne savent pas l'utiliser"
+        },
+        "animal_hunting_tool_3": {
+                "name": "Scalmagma",
+                "desc": "Cet objet très pratique permet de cuire la viande du gibier, parfois avant même de la tuer"
+        },
+        "animal_hunting_tool_4": {
+                "name": "Canice",
+                "desc": "L'arme la plus tranchante qui existe, il est dit qu'une coupure de cette lame vous glace, littéralement, jusqu'aux os"
+        },
+        "animal_hunting_tool_5": {
+                "name": "scramasasme",
+                "desc": "Une lame se dispensant purement de notion physique, elle perfore l'âme de sa proie sans être perturbée par son corps. Effroyable."
+        },
+        "exploration_tool_0": {
+                "name": "Lanterne dorée",
+                "desc": "Contrairement aux croyances, aucun être surnaturel n'apparaîtra si vous la frottez trois fois."
+        },
+        "exploration_tool_1": {
+                "name": "Squelanterne",
+                "desc": "Longtemps utilisée par les explorateurs, cet objet a pour vocation d'éclairer les sombres recoins et d'effrayer les imprudents qui y résident."
+        },
+        "exploration_tool_2": {
+                "name": "Lampinion",
+                "desc": "Contrairement à ce que laisse penser la forme de son chapeau, cette lampe est creusée dans une amanite aux spores luminescentes"
+        },
+        "exploration_tool_3": {
+                "name": "Lumice",
+                "desc": "Le créateur de cet objet magnifique avait une fascination malsaine pour le reflet des aurores boréales dans la neige et la glace."
+        },
+        "exploration_tool_4": {
+                "name": "Lampunk",
+                "desc": "La rotation des engrenages est hypnotisante. Presque plus que la douce mais puissante lumière qu'elle produit."
+        },
+        "exploration_tool_5": {
+                "name": "Iago",
+                "desc": "Cet objet des affres produit une étrange forme de ténèbres est plus sombre que l'obscurité lointaine, permettant de voir ce qui s'y trouve. Vraiment Étonnant."
+        },
+        "insect_hunting_tool_0": {
+                "name": "Filet immonde",
+                "desc": "Un filet de bois et de carapace poisseux et à l'odeur repoussante."
+        },
+        "insect_hunting_tool_1": {
+                "name": "Filet à insecte",
+                "desc": "Très peu coûteux, cet objet est la preuve que l'investissement ne conditionne pas toujours le gain."
+        },
+        "insect_hunting_tool_2": {
+                "name": "Filet de ronces",
+                "desc": "Se coincant dans tous buissons, il est pourtant plus efficace qu'un filet commun. Peut-être est-ce sa ressemblance avec un milieu naturel ou encore des lois naturelles idiotes ?"
+        },
+        "insect_hunting_tool_3": {
+                "name": "Faux-filet",
+                "desc": "Non, ce n'est pas une pièce de viande mais une broderie à base de toile d'araignée qui imite fort bien un filet, bien qu'en réalité elle soit collante des deux côtés."
+        },
+        "insect_hunting_tool_4": {
+                "name": "Ciselet",
+                "desc": "Filet d'argent spécialement étudié et façonné pour une adhésion maximale. Vous pourriez avoir du mal à vous en défaire."
+        },
+        "insect_hunting_tool_5": {
+                "name": "Étoile filet",
+                "desc": "La couche d'or qui recouvre cet objet atténue son intense lumière. Une fois une proie capturée, elle sera paralysée par sa douceur, prête pour la collecte."
+        },
+        "picking_tool_0": {
+                "name": "Ciseaux",
+                "desc": "De simples ciseaux, aussi bien utilisés par les enfants que par les cuisiniers. Il faut souvent s'y rependre à plusieurs fois pour trancher quoique ce soit."
+        },
+        "picking_tool_1": {
+                "name": "Ciseaux d'ouvrages",
+                "desc": "Une version améliorée des ciseaux utilisé par les nobles et leur couturier, ils n'ont rien de particulier."
+        },
+        "picking_tool_2": {
+                "name": "Boyeaux",
+                "desc": "Hautement réglementée cette création d'un alchimiste aliéné est d'une efficacité redoutable pour apeurer vos enfants et leur couper l'appétit."
+        },
+        "picking_tool_3": {
+                "name": "Amaseaune",
+                "desc": "Bien aiguisé cette lame de feuille pourrait découper un os, émoussée elle se disloquerait sur du papier."
+        },
+        "picking_tool_4": {
+                "name": "Vitrailame",
+                "desc": "Acier et verre teinté sont suffisants pour des ciseaux efficaces, en y rajoutant du chrome, on obtient un des fils les plus tranchants qui ait existé, celui des vitrailames."
+        },
+        "picking_tool_5": {
+                "name": "Cisoleil",
+                "desc": "On dit cet objet taillé dans l'oeil de Slipfronir, certains prétendent que ses lames peuvent taillés le diamant, d'autres fabulent que même la lumière n'y resiste."
+        },
+        "necromancy_tool_0": {
+                "name": "Sursaut",
+                "desc": "Cette baguette de bois stimule faiblement les nerfs des cadavres. Et ce sans utiliser de plume de phoenix ou autres fantaisies."
+        },
+        "necromancy_tool_1": {
+                "name": "Rameau",
+                "desc": "Une branche d'olivier travaillée, facile à prendre en main, elle est pourtant moins pratique pour farfouiller dans les corps."
+        },
+        "necromancy_tool_2": {
+                "name": "Tonnerre",
+                "desc": "Savant fou et nécromancien ont prouvé de par l'histoire faire bon ménage, le corps fonctionne par stimuli électrique et cette baguette est devenue maîtresse de cet élément."
+        },
+        "necromancy_tool_3": {
+                "name": "Friction",
+                "desc": "Friction est une hécatolite sommairement taillée et enchantée longuement selon des techniques plus ou moins douteuses. Elle fonctionne de cette même manière."
+        },
+        "necromancy_tool_4": {
+                "name": "Irisation",
+                "desc": "La corne de licorne possède naturellement des propriétés, cette baguette ne fait que les renforcer. Ce qui fait poser beaucoup de question sur la nature réelle des équidés."
+        },
+        "necromancy_tool_5": {
+                "name": "Tombeau",
+                "desc": "Un concentré de nuit tiré du ciel insondable avec la capacité de réveiller jusqu'à un dragon mort. Cette baguette semble, effectivement, tiré d'un roman."
+        },
+        "upgrader_0": {
+            "name": "Essence I",
+            "desc": "...."
+        },
+        "upgrader_1": {
+            "name": "Essence II",
+            "desc": "...."
+        },
+        "upgrader_2": {
+            "name": "Essence III",
+            "desc": "...."
+        },
+        "upgrader_3": {
+            "name": "Essence IV",
+            "desc": "...."
+        },
+        "upgrader_4": {
+            "name": "Essence V",
+            "desc": "...."
+        },
+        "upgrader_5": {
+            "name": "Essence VI",
+            "desc": "...."
+        }
+        
+    },
+    "entity": {
+        "slime_0": {
+            "name": "Slime vert",
+            "desc": "Un slime faible et innofensif"
+        }
+    },
+    "dungeon": {
+        "tutorial": {
+            "name": "Grotte de loupias",
+            "desc": "Une grotte a l'allure inofensive, elle conviens aux débutants"
+        }
+    },
+    "item_category": {
+        "resource": "ressource",
+        "equipment": "équipement"
+    },
+    "stack_description": {
+        "value": "valeur",
+        "quantity": "quantité",
+        "durability": "durabilité"
+    },
+    "command": {
+        "unauthorized": "Tu n'es pas authorisé à utiliser cette commande",
+        "banned": "",
+        "wrong_channel": "",
+        "dm_only": "",
+        "wrong_usage":"Vous avez fait une erreur dans la commande"
+    },
+    "commands":{
+        "me":{
+            "desc":"Affiche votre profile avec toutes les informations"
+        },
+        "inv":{
+            "desc":"Ouvre votre panel d'inventaire qui vous permet de gérer vos items"
+        },
+        "stats":{
+            "desc":"Affiche vos stats (force, intéligence, etc..)"
+        },
+        "claim":{
+            "desc":"Récupérer la récompense associer à votre rang en échange d'une petite quantité d'energie"
+        },
+        "bank":{
+            "desc":"Ouvre votre panel de banque et vous permet d'y retirer les items qui s'y trouve"
+        },
+        "help":{
+            "desc":"Affiche la liste de toute les commandes publics"
+        },
+        "rank":{
+            "desc":"Ouvre votre panel de rang qui vous permet de monter en rang ou de vous rétrograder"
+        },
+        "basetool":{
+            "desc":"Ouvre votre panel d'achat d'outil vous permettant de vous procurer l'outil de base associer à votre rang"
+        },
+        "quest":{
+            "desc":"Ouvre votre panel de quêtes qui permet de voirs vos quêtes et l'avancé des objectifs"
+        }
+    },
+    "panel": {
+        "buttons": {
+            "accept": "Accepter la propostion",
+            "refuse": "Refuser la proposition"
+        },
+        "go_back_after_input":"Votre entrée a bien été prise en compte : [Remonter au panel]({panel_url})"
+    },
+    "me_command": {
+        "title": "Profile de {name}",
+        "money_key": "Pièces d'or",
+        "gem_key": "Gemmes",
+        "level_key": "Niveau",
+        "xp_key": "Expérience",
+        "message_key": "Message envoyés",
+        "voc_key": "Temps passé en voc",
+        "voc_session_key": "Session vocal actuelle",
+        "no_voc_session": "Pas en vocal",
+        "energy_key": "Énergie",
+        "inviter": "Inviteur",
+        "no_inviter": "Aucuns",
+        "unknown_inviter": "Disparue"
+    },
+    "stats_command": {
+        "title": "Stats de {name}"
+    },
+    "error_command":{
+        "no_logs":"Il n'y a aucuns fichier de logs actuellement",
+        "show":"Les logs vous on été envoyé en message privé",
+        "clear":"Les logs vous on été envoyé en message privé puis nétoyer"
+    },
+    "claim_command":{
+        "title":"Claim de {name}",
+        "loot_desc":"Vous avez utilisé **2 d'énergies** et obtenue des récompenses en échange que voici :",
+        "no_energy_desc":"Il vous manque **{missing} d'énergie** pour faire ca\nPatientez un petit peux le temps que votre énergie remonte."
+    },
+    "reset_command":{
+        "success":"{name} a été correctement reset"
+    },
+    "resetall_command":{
+        "success":"Tout les membres du serveur ont été correctement reset"
+    },
+    "setchapter_command":{
+        "quest_not_found":"La quête spécifié n'a pas été trouver",
+        "chapter_out_of_range":"le chapitre spécifié n'a pas été trouver"
+    },
+    "inventory": {
+        "buttons": {
+            "go_left": "déplacer à gauche",
+            "go_right": "déplacer à droite",
+            "go_up": "déplacer en haut",
+            "go_down": "déplacer en bas",
+            "swap": "échanger deux stacks",
+            "use_item": "utiliser",
+            "sell_pnj": "vendre",
+            "sell_ply": "mettre sur l'hdv",
+            "close": "fermer"
+        },
+        "title": "inventaire de {name}",
+        "equipment_desc": "Equipement",
+        "inventory_desc": "Sac",
+        "equipment": {
+            "hand_key": "Mains (arme et bouclier)",
+            "book_key": "Livres de sort",
+            "armor_key": "Armure",
+            "jewelry_key": "Bijoux",
+            "tool_key": "Outil"
+        },
+        "temp_notif": {
+            "inventory_full": "Vous ne pouvez pas effectuer cette action car votre inventaire est plein",
+            "no_resources": "Il vous manque des ressources",
+            "equip_no_rank": "Vous n'avez pas le rang requis pour équiper ca"
+        },
+        "bag": {},
+        "sell_title":"inventaire de {name}┃Vente",
+        "sell_0_desc":"Vous êtes sur le point de vendre **{item_name}**\nVeuillez écrire dans le chat la quantité à vendre de cette item.",
+        "sell_1_desc":"Vous êtes sur le point de vendre **{stack_desc}** pour une valeur total de **{value}** {emoji}\nÉtes vous sure de vouloir confirmer cette échange ?",
+        "upgrade_title":"inventaire de {name}┃Forge",
+        "upgrade_desc":"Ici vous pouvez améliorer ou réparer vos équipements en échange d'**essences**\n\n{equipment_desc}\nVous pouvez améliorer (🔨) ou réparer (🔧) cette équipements contre **{essence_desc}**",
+        "notifications":{
+            "wrong_sell_quantity":"Veuillez entrez une valeur numérique correcte pour la vente",
+            "cant_upgrade_this":"Vous ne pouvez pas améliorer ca (séléctionner de l'équipement)",
+            "upgrade_failed":"L'amélioration a échoué ({fails})",
+            "upgrade_no_resource":"Vous n'avez pas la resource nécéssaires",
+            "repair_no_resource":"Vous n'avez pas la resource nécéssaires",
+            "upgrade_maxed":"L'item est déjà niveaux maximal",
+            "repair_maxed":"L'item à déja une durabilité maximal"
+        }
+    },
+    "bank":{
+        "title":"Bank de {name}",
+        "instruction":"Pour retirer un item de votre banque entrez le nombre correspondant à l'item que vous voulez retirer pendant que ce panel est actif\n*Veillez à bien fermer ce panel avant d'écrire d'autre commandes sinon ce panel prendra vos messages pour des commandes de retraits*",
+        "retrieve_desc":"Étes vous sure de vouloir retirer cette item de votre banque ?",
+        "tax_text":"Votre taxe de banque vaut **{value}** {emoji}, cette taxe est calculé à partir du nombre de place prise dans votre banque et peut être réduite en vidant votre banque.\nCette taxe est automatiquement prélevé tout les jours à 21h00 pour tout les joueurs.",
+        "nothing":"**(Votre banque est vide)**",
+        "notifications":{
+            "retrieved":"Vous avez récupérer un item de la banque",
+            "inventory_full":"Votre inventaire est pleins, faites de la place avant de récupérer ca",
+            "wrong_input":"Veuillez entrez un index valide correspondant à un slot de banque"
+
+        }
+    },
+    "level_up": {
+        "basic": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "rank": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "activity": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "fishing": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "mining": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "market": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "welcome": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "voc": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ],
+        "combat": [
+            "{name} viens de passer niveau {level} !",
+            "Niveau {level} pour {name}, quel exploit !"
+        ]
+    },
+    "tavern": {
+        "title": "Réservation de {}",
+        "desc": "Salutation aventurier bienvenue dans ma taverne ?\nSi vous voulez réserver une table cela vous coutera {} {}\nCela vous convient ?",
+        "late": "Bon si vous ne vous décidez pas sortez de ma taverne !\nEt ne revenez pas tant que vous ne vous serez pas décidé, j'ai du boulot moi !",
+        "no_money": "Vous n'avez pas assez de {} jeune aventurier\nRevenez quand vous aurez de quoi me payer",
+        "good": "Très bien ne bougez pas brave aventuriez\nVotre table sera prête dans 5 secondes !",
+        "refuse": "Quel culot, si vous n'avez rien a faire ici sortez de ma taverne\nEt que ca saute avant que je m'énnerve !",
+        "leave": "Vous partez pendant que je vous parle ?\nQuel indignité ne revenez pas malotru !"
+    },
+    "market": {
+        "buy_title": "Commande de {}",
+        "buy_desc": "Tu es sur le point d'acheter **{}×{} pour {}** {}\nVeut tu valider cette achat ?",
+        "already_buy": "On dirait que tu arrive trop tard, cette objet a déjà été acheté et n'est plus disponnible..",
+        "too_expensive": "On dirait bien que vous n'avez pas les moyens pour acheter cette marchandise..",
+        "inv_full": "Tu n'a pas de place dans ton inventaire pour cette marchandise !",
+        "successful_purchase": "Merci de votre achat"
+    },
+    "activity": {
+        "default":{
+            "collect_field_name": "Vos loots :",
+            "too_slow_field_name": "Trop lent !",
+            "too_slow_content": "Vous avez mis trop de temps et vos ressources ne sont plus disponnibles, soyez plus réactif la prochaine fois",
+            "tool_break_content": "Votre {tool_name} est trop abimé et doit être réparé",
+            "gone_wrong_field_name": "Oops, quelque chose c'est mal passé",
+            "gone_wrong_content": "Il semblerai que vous avez modifier votre outil ou que votre énergie a atteint 0 pendant que ce panel était ouvert :/"
+        },
+        "fishing": {
+            "collect_field_name": "Vous avez pécher :",
+            "too_slow_content": "Votre poissson c'est enfuit",
+            "game_title": "{name}, quelque chose mord a l'amecon !",
+            "game_desc": "Appuyez sur 🎣 pour récupérer votre loot"
+        },
+        "mining": {
+            "collect_field_name": "Vous avez miné :",
+            "too_slow_content": "Quelqu'un a chourave votre filon",
+            "game_title": "{name}, vous avez trouvé un filon",
+            "game_desc": "Utiliser ⛏️ pour récupérer vos minerais",
+            "usage_remaining":"Il vous reste **{value}** coups de pioches"
+        },
+        "picking": {
+            "game_title": "{name}, vous avez trouvé quelque chose",
+            "game_desc": "Appuyez sur 🍃 pour récupérer votre loot"
+        },
+        "animalhunting": {
+            "game_title": "{name}, vous avez trouvé quelque chose",
+            "game_desc": "Appuyez sur 🐾 pour récupérer votre loot"
+        },
+        "digging": {
+            "game_title": "{name}, vous avez trouvé quelque chose",
+            "game_desc": "Appuyez sur 🕳️ pour récupérer votre loot"
+        },
+        "insecthunting": {
+            "game_title": "{name}, vous avez trouvé quelque chose",
+            "game_desc": "Appuyez sur 🐛 pour récupérer votre loot"
+        },
+        "exploration": {
+            "game_title": "{name}, vous avez trouvé quelque chose",
+            "game_desc": "Appuyez sur 🏮 pour récupérer votre loot"
+        },
+        "no_energy": "Vous n'avez plus d'énergie"
+    },
+    "rank": {
+        "roles": {
+            "0": {
+                "name": "villageois",
+                "desc": "L'essentiel de la main d'oeuvre et de la population du royaume. Sa valeur est quelque part entre le cochon et la vache."
+            },
+            "1": {
+                "name": "écuyer",
+                "desc": "Ces apprentis soldats sont plus souvent considérés comme fainéants que comme des hommes en devenir."
+            },
+            "2": {
+                "name": "guerrier",
+                "desc": "Maintenant force militaire principale, offrir une formation militaire pour servir de chair à canon semblait idiot de prime abord."
+            },
+            "3": {
+                "name": "chevalier",
+                "desc": "Guerrier anobli pour faire place d'officier, on oublie souvent que le chevalier se caractérise avant tout par son cheval."
+            },
+            "4": {
+                "name": "croisé",
+                "desc": "Être exécutif du divin offre gloire et responsabilité. Mais aussi beaucoup d'argent."
+            },
+            "5": {
+                "name": "templier",
+                "desc": "Élite de la nation, les templiers pourraient décimer des anges au nom du divin que tout le monde les suivrait."
+            },
+            "6": {
+                "name": "paladin",
+                "desc": "Incarnation de la divinité, le paladin resplendit sur toute la société tant il est puissant, loyal et milliardaire."
+            }
+        },
+        "panel": {
+            "title": "Rang de {name}",
+            "desc": "Votre rang est votre statue sociale, il vous apporte des avantages et l'accès à plus de resources.",
+            "unlocked_tools": "Outils utilisables",
+            "base_tool":"Outil de base",
+            "price": "Prix",
+            "tax": "Taxe",
+            "needed_level": "Niveau requis",
+            "actual_rank": "Rang actuelle",
+            "pre_rank": "Rang précédent",
+            "next_rank": "Rang suivant",
+            "no_pre_rank": "Aucuns : Vous êtes au rang le plus bas",
+            "no_next_rank": "Aucuns : Vous êtes au rang le plus haut",
+            "none": "aucun",
+            "proportion": "Stabilité démographique",
+            "next_validation": "Vous êtes sur le point de passer au rang {rank_name} pour une somme de {price}{money_emoji}\nCe grade vous coutera {tax}{money_emoji} par jours\nVous gagnerez l'accés aux outils suivants : {tool_names}",
+            "pre_validation": "Vous êtes sur le point de vous rétrograder au rang de {rank_name}, cette rétrogradation est gratuite\nCe grade vous coutera {tax}{money_emoji} par jours\nVous perdrez l'accés aux outils suivants : {tool_names}",
+            "notifications":{
+                "no_requirement":"Vous n'avez pas les prérequis pour faire ca",
+                "cant":"Vous ne pouvez pas faire ca",
+                "rank_up":"Félicitation, faites la commande !basetool pour acheter votre nouvelle outil"
+            }
+        },
+        "base_tool_panel":{
+            "title":"Achat d'outil de base de {name}",
+            "desc":"Chaque rang à un outil de base, vous pouvez l'acheter ici pour une petite somme\n\nVoulez vous acheter **{tool_name}** en échange de **{value}** {emoji} ?\n",
+            "payed_desc":"Merci pour votre achat jeune aventurier !\nL'outil se trouve désormais dans votre inventaire, ou votre banque si votre inventaire est pleins.",
+            "notifications":{
+                "no_money":"Il vous manque {value} {currency} pour vous procurer ca"
+            }
+        },
+        "info": {
+            "title": "Information sur les rangs",
+            "desc": "Le rang vous offres des avantages divers mais à un prix, quand un rang est trop populaire et que trop de gens l'on les prix montent, si un rang est trop peux présent les prix diminue.",
+            "price": "Prix",
+            "tax": "Taxe",
+            "proportion": "Stabilité",
+            "real_proportion": "Réel",
+            "time_title": "Heures importantes",
+            "update_time": "Heure de mise a jours des prix",
+            "pay_time": "Heure de payement des taxes",
+            "price_modifier": "Soldes"
+        }
+    },
+    "welcome": {
+        "panel": {
+            "title": "Test d'entrée en ville",
+            "desc": "Vous vous trouvez devant une large porte, c'est la porte de la fameuse capitale Brumetière\nDeux gardes stationnent devant la grande porte, vous comprenez vite qu'ils surveillent la ville. L'un d'entre eux s'avance lentement vers vous, sa lance pointée vers le ciel, soudainement, il s'arrête avant de vous lancer :\nQu'est-ce qu'aprécie le roi de Brumetière ?\n\nIl semblerait que la réponse se trouve dans {rules}, vous pouvez être sûr que vous serez chassé si vous ne répondez pas correctement.\nRéfléchissez bien avant de répondre.",
+            "responses_title": "Réponses possibles",
+            "responses": [
+                "La foule",
+                "L'absurdité",
+                "Les femmes",
+                "L'intellect",
+                "Les idiots",
+                "La langue francaise",
+                "La solitude",
+                "Les gens normaux",
+                "Le vide",
+                "Le sanglant"
+            ],
+            "correct_desc": "C'est exact rétorqua le garde, levant la main pour faire donner l'ordre d'ouvrir la porte, vous commencez a apercevoir Brumetière\nLes deux gardes vous saluent respectueusement et vous patientez encore quelques secondes le temps que la lourde porte s'ouvre avant de vous engouffrer dans la ville miroitante.",
+            "wrong_desc": "Le garde vous toise sévèrement, il braque sa lance vers vous en soupirant durement. Il semblerait que vous n'ayez pas donner la réponse qu'il attendait...\nAprès un dernier regard sur la robuste muraille de pierre et ses nombreuses tours, vous décidez de partir au plus vite avant de vous y faire contraindre par la force."
+        },
+        "welcome_message_inviter":"Bienvenue dans la cité Brumetière {joiner_mention}, il semblerai que ca soit {inviter_name} qui t'ai guider jusqu'ici\nje t'invite à faire ``!quest`` dans un salon de commande pour commencer ton aventure au seins de la Cité Brumetière !",
+        "welcome_message_no_inviter":"Bienvenue dans la cité Brumetière {joiner_mention}\nje t'invite à faire ``!quest`` dans un salon de commande pour commencer ton aventure au seins de la Cité Brumetière !"
+    },
+    "voc": {
+        "introduction": {
+            "title": "Bienvenue dans la taverne",
+            "desc": "Ici vous pouvez commander des tables et y inviter vos amis, différentes tables à différents prix sont a votre dispositions.\nPour commander une table ils vous suffit de vous rendre dans [{voice_channel}]({voice_invitation}), le barman sera vous acceuilir\n*Si une table est laisser vide pendant {delay} secondes elle sera détruite*"
+        },
+        "creation": {
+            "title": "Réservation de {name}",
+            "desc": "Salutation aventurier, souhaitez vous réserver une table ?",
+            "buff_title": "Buffs de table",
+            "allowed_roles": "Roles authorisé",
+            "max_size": "Nombre de places",
+            "everyone": "tout les roles",
+            "no_role_err": "Vous n'avez pas le role requis",
+            "no_money_err": "Vous n'avez pas assez d'argent",
+            "channel_base_name": "Table de {name}",
+            "creating_desc": "Merci de votre achat\nVotre table est en train d'être préparé jeune aventurier",
+            "to_slow_desc": "Vous m'éxcuserai mais je n'ai pas votre temps aventurier\nHOUSTE !",
+            "leave_desc": "Vous osez partir pendant que je vous parle, impolis !\nNe mettez plus les pieds dans mon auberge j'ai du vrai travail moi !",
+            "refuse_desc": "Vous entrez dans mon auberge alors que vous n'avez rien à y faire ?\nSi c'est comme ca c'est moi qui vous sort de la, et ne revenez plus me faire perdre du temps j'ai un travail moi !"
+        },
+        "tables": {
+            "0": {
+                "name": "Table du poussin",
+                "desc": "..."
+            },
+            "1": {
+                "name": "Table du canard",
+                "desc": "..."
+            },
+            "2": {
+                "name": "Table du hiboux",
+                "desc": "..."
+            },
+            "3": {
+                "name": "Table du sanglier",
+                "desc": "..."
+            },
+            "4": {
+                "name": "Table du loup",
+                "desc": "..."
+            },
+            "5": {
+                "name": "Table du requin",
+                "desc": "..."
+            },
+            "6": {
+                "name": "Table du dragon",
+                "desc": "..."
+            },
+            "7": {
+                "name": "Table du nécromancien",
+                "desc": "..."
+            },
+            "8": {
+                "name": "Table d'énergie",
+                "desc": "Toute les 15 minutes si il y a plus de 5 personnes présent à cette table, une personne aléatoire recoit **+1 énergie**"
+            }
+        }
+    },
+    "protect":{
+        "infraction_panel":{
+            "title":"Infraction de {user} par {staff}",
+            "selection_desc":"A quel point éstimez vous que le joueur a enfreint cette règle ?",
+            "validation_desc":"Vous accuser le joueur {name} d'avoir enfreint la règle numéro {rule_index} **{hardness_word}** ( {hardness_emoji} ):\n```{rule_desc}```\nLa sanction sera donc la suivante :\n - {sanction_info}\n({recidive_info})\n\nEtes vous sure de valider une tel sanction ?",
+            "accept_desc":"La sanction a bien été effectué",
+            "cancel_desc":"La sanction a été annulé"
+        },
+        "infraction":{
+            "hardness":{
+                "1":"faiblement",
+                "2":"moyennement",
+                "3":"lourdement"
+            },
+            "place":{
+                "prison":"Prison",
+                "isolation":"Cachot"
+            },
+            "duration":{
+                "hm":"{hours} heures et {minutes} minutes",
+                "h":"{hours} heures",
+                "m":"{minutes} minutes"
+            },
+            "sanction_info":"{place} pendant {duration}",
+            "recidive_info":"{base_time} + {percent}% car {recidive} récidives",
+            "recap_str":"Coupable : {guilty}\nStaff : {staff}\nRègle : {rule_index}\nNiveaux d'infraction : {hardness_word} ( {hardness_emoji} )\nLieux de sanction : {place}\nTemps de sanction : {time_left}\nDate de libération : {end_date}",
+            "release_earlier":"Libérer plus tôt par : {releaser}"
+        },
+        "log":{
+            "join":"{name} viens d'arriver face à la porte (invité par {inviter_name})",
+            "re_join":"{name} est de retour en ville (invité par {inviter_name})",
+            "leave":"{name} viens de quiter la ville",
+            "door_sucess":"{name} a réussis à passer la porte",
+            "door_failed":"{name} a échouer à passer la porte",
+            "door_leave":"{name} est partie sans passer la porte",
+            "infraction_start":"Une sanction viens d'être appliqué :\n{recap_str}",
+            "infraction_end":"{name} viens de terminer sa période de sanction",
+            "infraction_release":"{name} viens de se faire libérer par {releaser}",
+            "ban":"{name} viens de se faire bannir par {staff_name}",
+            "unban":"{name} viens de se faire débannir par {staff_name}",
+            "invite":"{name} à essayer d'envoyer une invitation discord ({invitation}) dans {channel}\n\n{content}",
+            "message_delete":"Un message de {name} viens d'être supprimé dans {channel}\n\n{content}"
+
+        },
+        "to_prison_text":"Hey {name} bienvenue en prison mon grand, soit sage et tout ce passera bien.\ntu peux toujours voir ce qu'il se passe ailleurs mais tu ne peux pas intéragir avec les autres..\ntout abus en ces lieux sera sanctionné de la peine capitale alors pas de bétises, je t'ai a l'oeil !",
+        "to_isolation_text":"Salutaion {name} bienvenue au cachot mon grand, c'est le pire endroit dans lequelle tu aurai pue te retrouver.\nIci tu es coupé de la société et tu ne vois rien de l'éxtérieur..\nTout abus en ces lieux sera sanctionné de la peine capitale alors pas de bétises, je t'ai a l'oeil !",
+        "release_text":"{name} tu es a nouveaux en liberté, en éspérant que ce temps en jaule t'ai changé les idées, garre a tes fesses maintenant !",
+        "left_with_infraction":"{name} c'est enfuis de prison..\nLes gardes de prison vont aller patrouiller en ville pour voir si ils ne le retrouve pas !",
+        "back_with_infraction":"Hey {name} tu pensais qu'on t'avais oublié ?\nTu t'enfuis de ta cellulle et reviens ensuite en ville ensuite comme si de rien n'était, c'est vraiment nous prendre pour des cons..\nBref welcome back comme dirais nos amis des îles du nord",
+        "time_left":"{name} il te reste **{duration}** à croupir ici.\nTu peux profiter de ce temps pour par exemple apprendre les {rule_channel}, ca t'évitera d'avoir à repasser ici.",
+        "release_earlier_text":"{name} vous avez été libérer plus tôt que prévue, soyez redevable de ce geste et évitez de commetre de nouvelles infractions !",
+        "release_command_end":"Le membre {name} à bien été libérer",
+        "ban_present":"Le membre {name} viens d'être bannie de la ville de Brumetière",
+        "ban_absent":"Le membre n'étant pas présente en ville, il sera bannie dès son retour [{user_id}]",
+        "unban":"Le membre viens d'être débannie de la ville, il peut à nouveaux entrer sans problèmes [{user_id}]",
+        "allready_ban":"Le membre est déjà bannie de la ville [{user_id}]",
+        "allready_unban":"Le membre n'est pas bannie de la ville [{user_id}]",
+        "protected_role":"Le membre ciblé est protéger par son rang",
+        "allready_punished":"Le membre ciblé est déjà en prison",
+        "not_in_prison":"Le membre ciblé n'est pas enfermé et ne peut donc pas être libérer"
+    },
+    "quest":{
+        "panel":{
+            "title": "Quêtes en cours┃pages {actual}/{total}",
+            "no_quest_desc": "Vous n'avez aucunes quêtes en cours",
+            "goals": "Objectifs",
+            "rewards": "Récompenses",
+            "reward_end": "Vous avez obtenue en récompense",
+            "place_holder_title":"Quête en dévelopement",
+            "place_holder_desc":"Cette quête n'a pas de suite pour le moment, elle n'est pas finis pour autant\nLa suite arrivera surrement lors d'une prochaine mise a jours."
+        },
+        "end_notification":"Tout les objectifs de la quêtes '**{chapter_name}**' sont accomplis, faites ``!quest`` pour la terminer et réclamer votre récompense !",
+        "cant_be_finished":"Il vous reste des objectifs a atteindre avant de terminet la quête"
+    },
+    "quests":{
+        "campaign_name":{
+
+        },
+        "intro":{
+            "name":"L'initiation",
+            "desc":"Série de quêtes tutorielle pour comprendre les mécaniques de bases de Brumetière",
+            "chapters":{
+                "0": {
+                    "name":"Comment gagner de l'xp ?",
+                    "desc":"Dans ce chapitre vous apprendrez a gagner de l'xp dans la cité Brumetière\nL'xp vous permettra de gagner des niveaux, de gagner en rang et de débloquer des nouveaux items/contenues.",
+                    "end_desc":"Bien joué, maintenant vous savez comment gagner de l'xp\nvous pouvez également en gagner en finissant des quêtes comme celle ci ou en faisant des activités\nDailleurs les chapitres suivants vonts vous apprendre à faire des activités !",
+                    "goals":[
+                        "Faite la commande ``!me`` pour voir votre xp et vos levels",
+                        "Ecrivez {quant} messages dans un channel écrits",
+                        "Rester {quant} minutes actif dans un channel vocal (sans vous casquez)"
+                    ]
+                },
+                "1": {
+                    "name":"Se procurer un outil de base",
+                    "desc":"Très bien maintenant que vous savez gagner de l'xp, vous allez apprendre à farm des ressources, vous allez voir c'est assez simple !",
+                    "end_desc":"Bravo vous avez maintenant un outil équipé mais ca n'est pas finis, dans le prochain chapitre vous allez apprendre a vous en servir !",
+                    "goals":[
+                        "Faite la commande ``!basetool`` et accepter l'offre",
+                        "Faite la commande ``!inv`` pour ouvrir votre inventaire",
+                        "Depuis votre inventaire, équiper l'outil que vous avez obtenue en utilisant ✋🏼"
+                    ]
+                },
+                "2": {
+                    "name":"Utiliser votre outil",
+                    "desc":"Maintenant que vous avez un outil équipé, vous allez apprendre a vous en servir et gagner des ressources :\nIls vous suffit l'orsque vous avez un outil équipé de rester dans un channel vocal sans vous casquez, et a un moment une activité se déclenchera et vous serez mentionné, il faut juste être patient",
+                    "end_desc":"Voila maintenant vous savez comment utiliser votre outil, nous allons voir par la suite comment améliorer et répare votre outil",
+                    "goals":[
+                        "Rester {quant} minutes actif en vocal",
+                        "Dropez {quant} **algues** en restant actif en vocal avec un outil équipé"
+                    ]
+                },
+                "3": {
+                    "name":"Réparation et amélioration d'outil",
+                    "desc":"Vous allez aprendre a améliorer et répare vos outils\n*vous récupérer 1 d'energie toute les 15 minutes*",
+                    "end_desc":"bravo",
+                    "goals":[
+                        "Regardez l'énergie qu'il vous reste avec en faisant ``!me``",
+                        "Récupérer {quant} **Essence I** en utilisant la commande ``!claim``",
+                        "Depuis votre inventaire déséquipez votre outil en utilisant ✋🏼 sur un slot vide",
+                        "Utiliser une **Essence I**' pour réparer votre outil depuis l'inventaire (🔨 puis 🔧)",
+                        "Utiliser un **Essence I** pour améliorer votre outil depuis l'inventaire (🔨 puis 🔨)",
+                        "Rééquipez votre outil en utilisant ✋🏼",
+                        "Faites ``!stats`` pour constatez votre monté en intéligence"
+                    ]
+                },
+                "4": {
+                    "name":"Un peux de farm",
+                    "desc":"Vous allez farm un peux maintenant",
+                    "end_desc":"bravo",
+                    "goals":[
+                        "Ecrivez {quant} messages dans un channel écrits",
+                        "Rester {quant} minutes actif dans un channel vocal (sans vous casquez)",
+                        "Dropez {quant} **algues** en restant actif en voc avec un outil équipé",
+                        "Dropez {quant} **poissons** en restant actif en voc avec un outil équipé",
+                        "Récupérez {quant} **Essence I** avec la commande ``!claim``",
+                        "Atteignez le niveaux {quant}"
+                    ]
+                },
+                "5": {
+                    "name":"Gagner de l'or",
+                    "desc":"Vous allez apprendre a vendre des ressources",
+                    "end_desc":"bravo",
+                    "goals":[
+                        "Depuis votre inventaire vendez {quant} **algues** en utilisant 💸",
+                        "Depuis votre inventaire vendez {quant} **Essence I** en utilisant 💸",
+                        "Atteignez {quant} d'or en vendant des ressources divers (**pas votre outil**)"
+                    ]
+                }
+            }
+        }
+    }
+}

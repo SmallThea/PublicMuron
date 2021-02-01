@@ -1,0 +1,19 @@
+{
+    "error_log_path":"error.log",
+    "security_pwd":"",
+    "prefix": "!",
+    "stats": [
+        "strength",
+        "constitution",
+        "dexterity",
+        "intelligence",
+        "wisdom",
+        "charisma",
+        "luck"
+    ],
+    "resource_servers": [
+        null,
+        null,
+        null
+    ]
+}

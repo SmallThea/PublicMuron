@@ -1,0 +1,132 @@
+{
+    "tokens": {
+        "main": "",
+        "basic": "",
+        "rank": "",
+        "activity": "",
+        "fishing": "",
+        "mining": "",
+        "picking": "",
+        "animalhunting": "",
+        "digging": "",
+        "insecthunting": "",
+        "exploration": "",
+        "necromancy": "Not needed",
+        "economy": "",
+        "voc": "",
+        "protect": "",
+        "welcome": "",
+        "quest":"",
+        "combat": "Not needed"
+    },
+    "database": {
+        "host":"172.18.0.2",
+        "port":27017,
+        "name":"db_name",
+        "username":"",
+        "password":""
+    },
+    "guild_id": null,
+    "notification_channel":null,
+    "join_leave_channel": null,
+    "rules_channel": null,
+    "command_channels":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "separator_roles":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "level_ranks":{
+        "1":null,
+        "2":null,
+        "3":null,
+        "5":null,
+        "8":null,
+        "13":null,
+        "21":null,
+        "34":null,
+        "55":null,
+        "89":null
+    },
+    "activity": {
+        "fishing": null,
+        "mining": null,
+        "picking": null,
+        "animalhunting": null,
+        "digging": null,
+        "insecthunting": null,
+        "exploration": null,
+        "necromancy": null
+    },
+    "markets": {
+        "pnj_channels": {
+            "0": null,
+            "1": null,
+            "2": null,
+            "3": null
+        },
+        "player_channels": {}
+    },
+    "rank": {
+        "roles": {
+            "0": null,
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null
+        },
+        "nitro_role":null,
+        "info_channel": null
+    },
+    "welcome": {
+        "channel": null
+    },
+    "combat": {
+        "dungeon_category": null,
+        "dungeon_channel": null
+    },
+    "voc": {
+        "text_channel": null,
+        "voice_channel": null,
+        "category_channel": null,
+        "voice_invitation":"https://discord.gg/_______"
+    },
+    "protect": {
+        "punished_roles": {
+            "prison":null,
+            "isolation":null
+        },
+        "prison_text_channel":null,
+        "isolation_text_channel":null,
+        "release_text_channel":null,
+        "log_channel":null
+    },
+    "staff_roles":{
+        "administration_leader":null,
+        "administration":null,
+        "moderation_leader":null,
+        "moderation":null,
+        "communication_leader":null,
+        "communication":null,
+        "animation_leader":null,
+        "animation":null
+    },
+    "success_roles":{
+        "success_0":null,
+        "success_1":null,
+        "success_2":null,
+        "success_3":null
+    }
+}

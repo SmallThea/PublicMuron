@@ -1,0 +1,16 @@
+liste de quêtes consultables
+chaque quête à :
+
+titre
+description
+nom quête suivante
+objectifs a remplire : 
+    action_1 0 / 1
+    action_2 2 / 4
+
+
+Campagne:
+    nom
+    description
+    [] Quêtes:
+        [] Objectifs:

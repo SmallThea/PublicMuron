@@ -1,0 +1,41 @@
+{
+    "quest_introduction":"Vous entrez dans un village, vous y chercher un homme qui y fait du commerce d'arme magique nomé Arias",
+    "quest_tree":{
+        "situation":"Vous vous demandez donc comment trouver ce fameux commercant, un garde un peux ivre et faisant sa ronde et non loins de vous\nPendant que vous constatez cette ivrogne, un enfant qui courrais trébuche et attérie dans l'établis d'un marchand.\nLe marchand s'énnerve violament sur l'enfant et l'attrape par les cheveux.",
+        "state":0,
+        "choices":[
+            {
+                "description":"Aller voir le garde ivre",
+                "situation":"Vous avancez vers le garde encore ivre et lui demandez si il connaitrais Arias, le garde zozote un peux et vous répond :\n**Connais pas un tel *blurp*, bonhome *blurp*. Le garde vous rote de l'acide dessus et vous mourrez",
+                "emoji":"🛡️",
+                "state":1
+            },
+            {
+                "description":"Essayer d'aider l'enfant qui se fait maltraiter",
+                "situation":"Vous courrez très vite et mettez une retourner au commercant, celui ci se retrouve projeté sur 3 mètres.\nDes gardes interviennet et vous emmène en prison pour votre acte hors la loie.",
+                "emoji":"🧒",
+                "state":1
+            },
+            {
+                "description":"Aller aider le commercant a maltraiter cette enfant",
+                "situation":"Vous vous aprochez lentement et mettez une droite au jeunot, il se trouve qu'il mérite ce qui lui arrive, il n'avais qu'a pas sacager ce stand de marchand.\nLe marchand vous remercie de votre civilité, vous en profitez pour lui demandez si il connais Arias.\nLe marchand vous répoond qu'il est ce fameux marchand d'arme",
+                "emoji":"🛍️",
+                "state":0,
+                "choices":[
+                    {
+                        "description":"Le remercier et partir",
+                        "situation":"Après toute ces péripécis, vous avez réussis a trouver ce fameux commercant et avez donc accomplis votre mission, félicitation !",
+                        "emoji":"👋",
+                        "state":2
+                    },
+                    {
+                        "description":"Le tuer",
+                        "situation":"Vous enfoncez votre épée dans son torse, élas il avais une charge explosif sur lui, il vous emporte donc dans sa mort",
+                        "emoji":"🔪",
+                        "state":1
+                    }
+                ]
+            }
+        ]
+    }
+}
